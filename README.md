@@ -60,8 +60,8 @@ plt.plot([s[0] for s in true_states], label='true')
 plt.plot([s[0] for s in est_states], label='estimate')
 plt.legend()
 plt.show()
-
 ```
+
 <H3>Output:</H3>
 ![image](https://github.com/ShamRathan/Ex-5--AAI/assets/93587823/cced3378-9629-47f0-92af-bddbad6437ae)
 
